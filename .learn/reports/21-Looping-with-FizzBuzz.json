@@ -1,0 +1,29 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 4,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "console.log() function to be called 100 times",
+      "status": "passed"
+    },
+    {
+      "title": "FizzBuzz to be called 6 times",
+      "status": "passed"
+    },
+    {
+      "title": "Buzz to be called 14 times",
+      "status": "passed"
+    },
+    {
+      "title": "Fizz to be called 27 times",
+      "status": "passed"
+    }
+  ]
+}

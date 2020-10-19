@@ -1,0 +1,33 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 5,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "function getColor should exist",
+      "status": "passed"
+    },
+    {
+      "title": "When calling getColor('red') it should return true",
+      "status": "passed"
+    },
+    {
+      "title": "When calling getColor('green') it should return true",
+      "status": "passed"
+    },
+    {
+      "title": "When calling getColor('blue') it should return true",
+      "status": "passed"
+    },
+    {
+      "title": "When calling getColor('pink') it should return false",
+      "status": "passed"
+    }
+  ]
+}

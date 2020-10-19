@@ -1,0 +1,25 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 3,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "console.log() function should be called 10 times",
+      "status": "passed"
+    },
+    {
+      "title": "console.log() function should be called with a string",
+      "status": "passed"
+    },
+    {
+      "title": "console.log() function should not be called with argument black",
+      "status": "passed"
+    }
+  ]
+}

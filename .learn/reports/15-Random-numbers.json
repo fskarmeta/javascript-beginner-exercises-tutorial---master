@@ -1,0 +1,29 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 4,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "function getRandomInt should exist",
+      "status": "passed"
+    },
+    {
+      "title": "getRandomInt should return something",
+      "status": "passed"
+    },
+    {
+      "title": "getRandomInt should return an integer (no decimals)",
+      "status": "passed"
+    },
+    {
+      "title": "getRandomInt should return random between 1,10",
+      "status": "passed"
+    }
+  ]
+}

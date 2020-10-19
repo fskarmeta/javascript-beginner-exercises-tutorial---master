@@ -1,0 +1,53 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 10,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "The function getPrice must exist",
+      "status": "passed"
+    },
+    {
+      "title": "When tested for 200 it should return 15000",
+      "status": "passed"
+    },
+    {
+      "title": "When tested for 201 it should return 20000",
+      "status": "passed"
+    },
+    {
+      "title": "When tested for 50 it should return 4000",
+      "status": "passed"
+    },
+    {
+      "title": "When tested for 51 it should return 10000",
+      "status": "passed"
+    },
+    {
+      "title": "When tested for 100 it should return 10000",
+      "status": "passed"
+    },
+    {
+      "title": "When tested for 101 it should return 15000",
+      "status": "passed"
+    },
+    {
+      "title": "When tested for 200 it should return 15000",
+      "status": "passed"
+    },
+    {
+      "title": "When tested for 201 it should return 20000",
+      "status": "passed"
+    },
+    {
+      "title": "When tested for 400 it should return 20000",
+      "status": "passed"
+    }
+  ]
+}
